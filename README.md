@@ -1,2 +1,10 @@
 # abap-on-cloud
-Pet Project to learn ABAP on CLOUD
+## Learning - SM30
+RAP Backend with ODATA V4 + UI
+___
+
+Package - ZASGT01
+
+Object Prefix - ZASGT01_
+
+___
