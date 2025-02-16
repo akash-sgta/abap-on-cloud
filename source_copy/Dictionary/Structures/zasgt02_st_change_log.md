@@ -3,7 +3,7 @@ ___
 ```abap
 @EndUserText.label : 'Structure - Change Log'
 @AbapCatalog.enhancement.category : #NOT_EXTENSIBLE
-define structure zasgt01_st_change_log {
+define structure zasgt02_st_change_log {
 
   created_by            : abp_creation_user;
   created_at            : abp_creation_tstmpl;
