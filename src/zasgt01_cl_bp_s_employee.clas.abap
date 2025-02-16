@@ -1,0 +1,5 @@
+CLASS zasgt01_cl_bp_s_employee DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zasgt01_cds_if_s_employee.
+ENDCLASS.
+
+CLASS zasgt01_cl_bp_s_employee IMPLEMENTATION.
+ENDCLASS.
