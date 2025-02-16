@@ -1,0 +1,9 @@
+[HOME](/README.md)
+___
+```cds
+@EndUserText.label: 'Service Definition - Employee'
+define service ZASGT01_SD_EMPLOYEE {
+  expose ZASGT01_CDS_C_S_EMPLOYEE;
+  expose ZASGT01_CDS_C_EMPLOYEE;
+}
+```

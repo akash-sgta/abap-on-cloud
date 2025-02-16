@@ -1,0 +1,20 @@
+[HOME](/README.md)
+___
+```cds
+@Metadata.layer: #CORE
+annotate view ZASGT01_CDS_C_S_EMPLOYEE with
+{
+  @UI.facet: [
+    {
+        purpose: #STANDARD,
+        type: #LINEITEM_REFERENCE,
+        label: 'Employee Inline Edit',
+        position: 10,
+        targetElement: '_employee'
+    }
+  ]
+  
+  @UI.lineItem: [{ position: 10 }]
+  singleton;
+}
+```
